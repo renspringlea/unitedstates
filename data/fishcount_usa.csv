@@ -1,0 +1,415 @@
+Country,FAO Species Category,Scientific name,Fish species?,Class,Multi-species?,Year,Production (t),EMW id,Estimated mean weight EMW (lower) g,Estimated mean weight EMW (upper) g,Global Generic estimated mean weight for class GEMW (lower) g,Global Generic estimated mean weight for class GEMW (upper) g,Mean weight used (lower) g,Mean weight used (upper) g,Estimated numbers (lower) millions,Estimated numbers (upper) millions
+United States of America,Abalones nei,,N,,,2007-2016,0.7,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,African pompano,Alectis ciliaris,Y,Actinopterygii (ray-finned fishes),,2007-2016,1.9,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Alaska pollock(=Walleye poll.),Theragra chalcogramma,Y,Actinopterygii (ray-finned fishes),N,2007-2016,1252176.7,6,227,1000,37.75,96.17,227.00,1000.00,1252.18,5516.20
+United States of America,Albacore,Thunnus alalunga,Y,Actinopterygii (ray-finned fishes),N,2007-2016,12670.2,7,4540,21364,37.75,96.17,4540.00,21364.00,0.59,2.79
+United States of America,Alewife,Alosa pseudoharengus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,672.1,8,227,273,37.75,96.17,227.00,273.00,2.46,2.96
+United States of America,Amberjacks nei,Seriola spp,Y,Actinopterygii (ray-finned fishes),Y,2007-2016,98.2,12,1056.69687,27300,37.75,96.17,1056.70,27300.00,0.00,0.09
+United States of America,Amer. plaice(=Long rough dab),Hippoglossoides platessoides,Y,Actinopterygii (ray-finned fishes),N,2007-2016,1288.2,13,909,2500,37.75,96.17,909.00,2500.00,0.52,1.42
+United States of America,American angler,Lophius americanus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,9199.8,14,3182,6818,37.75,96.17,3182.00,6818.00,1.35,2.89
+United States of America,American conger,Conger oceanicus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,32.7,15,4545,9090,37.75,96.17,4545.00,9090.00,0.00,0.01
+United States of America,American cupped oyster,,N,,,2007-2016,51590.6,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,American eel,Anguilla rostrata,Y,Actinopterygii (ray-finned fishes),N,2007-2016,398.3,16,1364,1364,37.75,96.17,1364.00,1364.00,0.29,0.29
+United States of America,American gizzard shad,Dorosoma cepedianum,Y,Actinopterygii (ray-finned fishes),N,2007-2016,1305.4,17,18.18,520,37.75,96.17,18.18,520.00,2.51,71.80
+United States of America,American harvestfish,,Y,Actinopterygii (ray-finned fishes),,2007-2016,87.6,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,American lobster,,N,,,2007-2016,56554.8,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,American sea scallop,,N,,,2007-2016,186337.2,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,American shad,Alosa sapidissima,Y,Actinopterygii (ray-finned fishes),N,2007-2016,312,18,907,2272,37.75,96.17,907.00,2272.00,0.14,0.34
+United States of America,American slipper-limpet,Crepidula fornicata,N,,,2007-2016,1.5,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,American yellow perch,Perca flavescens,Y,Actinopterygii (ray-finned fishes),N,2007-2016,792.2,19,114,454,37.75,96.17,114.00,454.00,1.74,6.95
+United States of America,Arrowtooth flounder,Atheresthes stomias,Y,Actinopterygii (ray-finned fishes),N,2007-2016,37365,46,130.912113,260.112268,37.75,96.17,130.91,260.11,143.65,285.42
+United States of America,Atka mackerel,Pleurogrammus monopterygius,Y,Actinopterygii (ray-finned fishes),N,2007-2016,51355.8,49,697.28,748.16,37.75,96.17,697.28,748.16,68.64,73.65
+United States of America,Atl.jackknife(=Atl.razor clam),,N,,,2007-2016,167.2,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Atlantic bay scallop,,N,,,2007-2016,612.8,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Atlantic bluefin tuna,Thunnus thynnus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,534.6,51,262000,262000,37.75,96.17,262000.00,262000.00,0.00,0.00
+United States of America,Atlantic bonito,Sarda sarda,Y,Actinopterygii (ray-finned fishes),N,2007-2016,29.9,52,1818,5000,37.75,96.17,1818.00,5000.00,0.01,0.02
+United States of America,Atlantic chub mackerel,Scomber colias,Y,Actinopterygii (ray-finned fishes),N,2007-2016,21.6,483,100,750,37.75,96.17,100.00,750.00,0.03,0.22
+United States of America,Atlantic cod,Gadus morhua,Y,Actinopterygii (ray-finned fishes),N,2007-2016,5366.1,55,800,4000,37.75,96.17,800.00,4000.00,1.34,6.71
+United States of America,Atlantic croaker,Micropogonias undulatus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,5623.5,56,227,909,37.75,96.17,227.00,909.00,6.19,24.77
+United States of America,Atlantic goldeneye tilefish,Caulolatilus chrysops,Y,Actinopterygii (ray-finned fishes),N,2007-2016,5.1,58,951.483071,951.483071,37.75,96.17,951.48,951.48,0.01,0.01
+United States of America,Atlantic halibut,Hippoglossus hippoglossus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,48.4,59,21000,21000,37.75,96.17,21000.00,21000.00,0.00,0.00
+United States of America,Atlantic herring,Clupea harengus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,81095,60,100,600,37.75,96.17,100.00,600.00,135.16,810.95
+United States of America,Atlantic mackerel,Scomber scombrus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,11173.9,62,389,454,37.75,96.17,389.00,454.00,24.61,28.72
+United States of America,Atlantic menhaden,Brevoortia tyrannus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,197370.8,63,162.08,349.22,37.75,96.17,162.08,349.22,565.18,1217.74
+United States of America,Atlantic moonfish,Selene setapinnis,Y,Actinopterygii (ray-finned fishes),N,2007-2016,21.6,64,333,333,37.75,96.17,333.00,333.00,0.06,0.06
+United States of America,Atlantic needlefish,Strongylura marina,Y,Actinopterygii (ray-finned fishes),,2007-2016,3.9,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Atlantic puffers nei,,Y,Actinopterygii (ray-finned fishes),,2007-2016,2.7,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Atlantic redfishes nei,Sebastes spp,Y,Actinopterygii (ray-finned fishes),Y,2007-2016,2788.4,66,109.283739,1283.731336,37.75,96.17,109.28,1283.73,2.17,25.52
+United States of America,Atlantic rock crab,,N,,,2007-2016,1242.6,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Atlantic seabob,,N,,,2007-2016,524.6,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Atlantic searobins,Prionotus spp,Y,Actinopterygii (ray-finned fishes),Y,2007-2016,54.9,71,121.163581,526.5,37.75,96.17,121.16,526.50,0.10,0.45
+United States of America,Atlantic sharpnose shark,NULL,Y,Elasmobranchii (sharks and rays),,2007-2016,119.5,,0,0,5950.39,10539.43,0.00,0.00,0.00,0.00
+United States of America,Atlantic silverside,Menidia menidia,Y,Actinopterygii (ray-finned fishes),N,2007-2016,20.7,72,4.600726,4.600726,37.75,96.17,4.60,4.60,4.50,4.50
+United States of America,Atlantic Spanish mackerel,Scomberomorus maculatus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,2130.4,73,907,2722,37.75,96.17,907.00,2722.00,0.78,2.35
+United States of America,Atlantic surf clam,,N,,,2007-2016,111886.8,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Atlantic thread herring,Opisthonema oglinum,Y,Actinopterygii (ray-finned fishes),N,2007-2016,544.9,74,65,91,37.75,96.17,65.00,91.00,5.99,8.38
+United States of America,Aurora rockfish,Sebastes aurora,Y,Actinopterygii (ray-finned fishes),,2007-2016,2.9,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Ballyhoo halfbeak,Hemiramphus brasiliensis,Y,Actinopterygii (ray-finned fishes),N,2007-2016,409.9,87,134.34848,134.34848,37.75,96.17,134.35,134.35,3.05,3.05
+United States of America,Banded rudderfish,Seriola zonata,Y,Actinopterygii (ray-finned fishes),,2007-2016,17.7,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Bank rockfish,Sebastes rufus,Y,Actinopterygii (ray-finned fishes),,2007-2016,9,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Bar jack,Carangoides ruber,Y,Actinopterygii (ray-finned fishes),N,2007-2016,26.5,88,454,909,37.75,96.17,454.00,909.00,0.03,0.06
+United States of America,Barracudas nei,Sphyraena spp,Y,Actinopterygii (ray-finned fishes),Y,2007-2016,70.5,91,186.795131,9072,37.75,96.17,186.80,9072.00,0.01,0.38
+United States of America,Barrelfish,NULL,Y,Actinopterygii (ray-finned fishes),,2007-2016,12.5,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Basket cockle,,N,,,2007-2016,211.2,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Bastard halibuts nei,Paralichthys spp,Y,Actinopterygii (ray-finned fishes),Y,2007-2016,334,99,367.85,753.8,37.75,96.17,367.85,753.80,0.44,0.91
+United States of America,Bearded brotula,Brotula barbata,Y,Actinopterygii (ray-finned fishes),N,2007-2016,0.2,105,909,1364,37.75,96.17,909.00,1364.00,0.00,0.00
+United States of America,Big skate,Raja binoculata,Y,Elasmobranchii (sharks and rays),,2007-2016,49.7,,0,0,5950.39,10539.43,0.00,0.00,0.00,0.00
+United States of America,Bigeye scad,Selar crumenophthalmus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,171.5,112,230,230,37.75,96.17,230.00,230.00,0.75,0.75
+United States of America,Bigeye thresher,Alopias superciliosus,Y,Elasmobranchii (sharks and rays),N,2007-2016,2.4,113,160000,160000,5950.39,10539.43,160000.00,160000.00,0.00,0.00
+United States of America,Bigeye tuna,Thunnus obesus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,10430.3,114,15000,20000,37.75,96.17,15000.00,20000.00,0.52,0.70
+United States of America,Bigeyes nei,Priacanthus spp,Y,Actinopterygii (ray-finned fishes),Y,2007-2016,0.7,115,50,617.641191,37.75,96.17,50.00,617.64,0.00,0.01
+United States of America,Black driftfish,Hyperoglyphe bythites,Y,Actinopterygii (ray-finned fishes),N,2007-2016,3.6,125,1364,2727,37.75,96.17,1364.00,2727.00,0.00,0.00
+United States of America,Black drum,Pogonias cromis,Y,Actinopterygii (ray-finned fishes),N,2007-2016,2348.6,126,13636,13636,37.75,96.17,13636.00,13636.00,0.17,0.17
+United States of America,Black grouper,Mycteroperca bonaci,Y,Actinopterygii (ray-finned fishes),N,2007-2016,27.7,128,26000,26000,37.75,96.17,26000.00,26000.00,0.00,0.00
+United States of America,Black marlin,Makaira indica,Y,Actinopterygii (ray-finned fishes),N,2007-2016,3.1,129,85000,90000,37.75,96.17,85000.00,90000.00,0.00,0.00
+United States of America,Black rockfish,Sebastes melanops,Y,Actinopterygii (ray-finned fishes),N,2007-2016,125,131,1056,1440,37.75,96.17,1056.00,1440.00,0.09,0.12
+United States of America,Black seabass,Centropristis striata,Y,Actinopterygii (ray-finned fishes),N,2007-2016,1192.9,133,227,2750,37.75,96.17,227.00,2750.00,0.43,5.26
+United States of America,Black skipjack,Euthynnus lineatus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,0.1,135,694.652036,7164.532818,37.75,96.17,694.65,7164.53,0.00,0.00
+United States of America,Black stone crab,,N,,,2007-2016,2004.5,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Blackbelly rosefish,Helicolenus dactylopterus dactylopterus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,7.9,138,217.804027,283.525207,37.75,96.17,217.80,283.53,0.03,0.04
+United States of America,Blackfin goosefish,,Y,Actinopterygii (ray-finned fishes),,2007-2016,0.7,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Blackfin tuna,Thunnus atlanticus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,16.4,140,3182,7000,37.75,96.17,3182.00,7000.00,0.00,0.01
+United States of America,Blackgill rockfish,Sebastes melanostomus,Y,Actinopterygii (ray-finned fishes),,2007-2016,8.3,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Blacknose shark,Carcharhinus acronotus,Y,Elasmobranchii (sharks and rays),,2007-2016,11.6,,0,0,5950.39,10539.43,0.00,0.00,0.00,0.00
+United States of America,Blacktip shark,Carcharhinus limbatus,Y,Elasmobranchii (sharks and rays),N,2007-2016,218.1,146,18000,18000,5950.39,10539.43,18000.00,18000.00,0.01,0.01
+United States of America,Blood ark,,N,,,2007-2016,132.2,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Blue catfish,Ictalurus furcatus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,2254.9,467,3000,3000,37.75,96.17,3000.00,3000.00,0.75,0.75
+United States of America,Blue crab,,N,,,2007-2016,72702.3,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Blue marlin,Makaira nigricans,Y,Actinopterygii (ray-finned fishes),N,2007-2016,462.8,154,180000,180000,37.75,96.17,180000.00,180000.00,0.00,0.00
+United States of America,Blue mud shrimp,,N,,,2007-2016,0.7,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Blue mussel,,N,,,2007-2016,10526.3,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Blue runner,Caranx crysos,Y,Actinopterygii (ray-finned fishes),N,2007-2016,145,155,1164.415233,1164.415233,37.75,96.17,1164.42,1164.42,0.12,0.12
+United States of America,Blue shark,Prionace glauca,Y,Elasmobranchii (sharks and rays),N,2007-2016,5,156,14411.9,16561.68,5950.39,10539.43,14411.90,16561.68,0.00,0.00
+United States of America,Blueback shad,Alosa aestivalis,Y,Actinopterygii (ray-finned fishes),N,2007-2016,8,160,44,60,37.75,96.17,44.00,60.00,0.13,0.18
+United States of America,Bluefish,Pomatomus saltatrix,Y,Actinopterygii (ray-finned fishes),N,2007-2016,2597.6,162,1942.671564,1942.671564,37.75,96.17,1942.67,1942.67,1.34,1.34
+United States of America,Bocaccio rockfish,Sebastes paucispinis,Y,Actinopterygii (ray-finned fishes),N,2007-2016,17.9,171,2118.6,2889,37.75,96.17,2118.60,2889.00,0.01,0.01
+United States of America,Bonnethead,Sphyrna tiburo,Y,Elasmobranchii (sharks and rays),,2007-2016,4.5,,0,0,5950.39,10539.43,0.00,0.00,0.00,0.00
+United States of America,Bowfin,Amia calva,Y,Actinopterygii (ray-finned fishes),,2007-2016,113.1,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Brine shrimp,,N,,,2007-2016,195.5,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Brown bullhead,Ameiurus nebulosus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,23,189,35.359857,167.573515,37.75,96.17,35.36,167.57,0.14,0.65
+United States of America,Brown seaweeds,,N,,,2007-2016,298.6,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Brown smooth-hound,Mustelus henlei,Y,Elasmobranchii (sharks and rays),N,2007-2016,0.4,191,471.268407,2684.820856,5950.39,10539.43,471.27,2684.82,0.00,0.00
+United States of America,Buffalofishes nei,Ictiobus spp,Y,Actinopterygii (ray-finned fishes),Y,2007-2016,1524.2,193,908,6810,37.75,96.17,908.00,6810.00,0.22,1.68
+United States of America,Bull shark,NULL,Y,Elasmobranchii (sharks and rays),,2007-2016,77.3,,0,0,5950.39,10539.43,0.00,0.00,0.00,0.00
+United States of America,Burbot,Lota lota,Y,Actinopterygii (ray-finned fishes),N,2007-2016,6.4,194,496.803369,496.803369,37.75,96.17,496.80,496.80,0.01,0.01
+United States of America,Butter clam,,N,,,2007-2016,47.7,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Butter sole,Isopsetta isolepis,Y,Actinopterygii (ray-finned fishes),,2007-2016,90.1,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,"Butterfishes, pomfrets nei",Stromateidae,Y,Actinopterygii (ray-finned fishes),Y,2007-2016,1525.1,195,80,500,37.75,96.17,80.00,500.00,3.05,19.06
+United States of America,Cabezon,Scorpaenichthys marmoratus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,50.6,196,3080,4200,37.75,96.17,3080.00,4200.00,0.01,0.02
+United States of America,California flounder,Paralichthys californicus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,203.7,199,7260,9900,37.75,96.17,7260.00,9900.00,0.02,0.03
+United States of America,California pilchard,Sardinops sagax,Y,Actinopterygii (ray-finned fishes),N,2007-2016,58364.6,200,120,183,37.75,96.17,120.00,183.00,318.93,486.37
+United States of America,California sheephead,Semicossyphus pulcher,Y,Actinopterygii (ray-finned fishes),N,2007-2016,32.2,201,3520,4800,37.75,96.17,3520.00,4800.00,0.01,0.01
+United States of America,Californian anchovy,Engraulis mordax,Y,Actinopterygii (ray-finned fishes),N,2007-2016,7798.5,202,21.575194,21.575194,37.75,96.17,21.58,21.58,361.46,361.46
+United States of America,Canary rockfish,Sebastes pinniger,Y,Actinopterygii (ray-finned fishes),N,2007-2016,18.6,204,2000,2000,37.75,96.17,2000.00,2000.00,0.01,0.01
+United States of America,Caribbean spiny lobster,,N,,,2007-2016,2107.6,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Catfishes nei,,Y,Actinopterygii (ray-finned fishes),,2007-2016,908.9,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Channel catfish,Ictalurus punctatus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,1033.2,356,2000,2000,37.75,96.17,2000.00,2000.00,0.52,0.52
+United States of America,Channeled whelk,Busycotypus canaliculatus,N,,,2007-2016,865.1,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Chilipepper rockfish,Sebastes goodei,Y,Actinopterygii (ray-finned fishes),N,2007-2016,212.1,358,338.8,462,37.75,96.17,338.80,462.00,0.46,0.63
+United States of America,Chinook(=Spring=King) salmon,Oncorhynchus tshawytscha,Y,Actinopterygii (ray-finned fishes),N,2007-2016,6636.4,214,8341,8341,37.75,96.17,8341.00,8341.00,0.80,0.80
+United States of America,Chum(=Keta=Dog) salmon,Oncorhynchus keta,Y,Actinopterygii (ray-finned fishes),N,2007-2016,53725,216,3182,8182,37.75,96.17,3182.00,8182.00,6.57,16.88
+United States of America,"Clams, etc. nei",NULL,N,,,2007-2016,2266.9,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Clupeoids nei,,Y,Actinopterygii (ray-finned fishes),,2007-2016,546.7,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Cobia,Rachycentron canadum,Y,Actinopterygii (ray-finned fishes),N,2007-2016,93.8,217,6364,18182,37.75,96.17,6364.00,18182.00,0.01,0.01
+United States of America,Coho(=Silver) salmon,Oncorhynchus kisutch,Y,Actinopterygii (ray-finned fishes),N,2007-2016,14678.6,359,6000,6000,37.75,96.17,6000.00,6000.00,2.45,2.45
+United States of America,Common carp,Cyprinus carpio carpio,Y,Actinopterygii (ray-finned fishes),N,2007-2016,568.7,218,2000,15000,37.75,96.17,2000.00,15000.00,0.04,0.28
+United States of America,Common dolphinfish,Coryphaena hippurus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,1125.2,219,28000,28000,37.75,96.17,28000.00,28000.00,0.04,0.04
+United States of America,Cownose ray,Rhinoptera bonasus,Y,Elasmobranchii (sharks and rays),,2007-2016,46.5,,0,0,5950.39,10539.43,0.00,0.00,0.00,0.00
+United States of America,Crangonid shrimps nei,,N,,,2007-2016,16.6,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Crevalle jack,Caranx hippos,Y,Actinopterygii (ray-finned fishes),N,2007-2016,252.7,221,1361,2268,37.75,96.17,1361.00,2268.00,0.11,0.19
+United States of America,Cunner,,Y,Actinopterygii (ray-finned fishes),,2007-2016,3.5,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Cupped oysters nei,,N,,,2007-2016,109.4,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Cyprinids nei,,Y,Actinopterygii (ray-finned fishes),,2007-2016,116.3,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Darkblotched rockfish,NULL,Y,Actinopterygii (ray-finned fishes),,2007-2016,107.1,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Dealfish,NULL,Y,Actinopterygii (ray-finned fishes),,2007-2016,13.9,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Diamondback terrapins,,N,,,2007-2016,0.1,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Dogfish sharks nei,,Y,Elasmobranchii (sharks and rays),,2007-2016,544.1,,0,0,5950.39,10539.43,0.00,0.00,0.00,0.00
+United States of America,Dover sole,,Y,Actinopterygii (ray-finned fishes),,2007-2016,8403.2,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Dungeness crab,,N,,,2007-2016,26600.7,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Dusky smooth-hound,Mustelus canis,Y,Elasmobranchii (sharks and rays),N,2007-2016,685.1,226,6752.169115,6752.169115,5950.39,10539.43,6752.17,6752.17,0.10,0.10
+United States of America,Eastern Pacific bonito,Sarda chiliensis chiliensis,Y,Actinopterygii (ray-finned fishes),N,2007-2016,358.4,382,4000,4000,37.75,96.17,4000.00,4000.00,0.09,0.09
+United States of America,Echinoderms,,N,,,2007-2016,186.6,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Emperors(=Scavengers) nei,,Y,Actinopterygii (ray-finned fishes),,2007-2016,1.7,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,English sole,,Y,Actinopterygii (ray-finned fishes),,2007-2016,343.6,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Escolar,,Y,Actinopterygii (ray-finned fishes),,2007-2016,60.8,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Eulachon,,Y,Actinopterygii (ray-finned fishes),,2007-2016,3.9,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Euro-American crayfishes nei,,N,,,2007-2016,5869.4,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Finetooth shark,Carcharhinus isodon,Y,Elasmobranchii (sharks and rays),,2007-2016,20,,0,0,5950.39,10539.43,0.00,0.00,0.00,0.00
+United States of America,Finfishes nei,,Y,Includes species from > 1 class,,2007-2016,1624.3,,0,0,37.89,96.52,0.00,0.00,0.00,0.00
+United States of America,Flatfishes nei,,Y,Actinopterygii (ray-finned fishes),,2007-2016,17294.4,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Flathead catfish,,Y,Actinopterygii (ray-finned fishes),,2007-2016,121.3,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Flathead grey mullet,Mugil cephalus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,3004.7,236,909,1364,37.75,96.17,909.00,1364.00,2.20,3.31
+United States of America,Flathead sole,,Y,Actinopterygii (ray-finned fishes),,2007-2016,16977.5,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Florida pompano,,Y,Actinopterygii (ray-finned fishes),,2007-2016,134.3,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Fourspot flounder,Paralichthys oblongus,Y,Actinopterygii (ray-finned fishes),,2007-2016,7.5,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Freshwater drum,Aplodinotus grunniens,Y,Actinopterygii (ray-finned fishes),N,2007-2016,513.9,397,1000,1000,37.75,96.17,1000.00,1000.00,0.51,0.51
+United States of America,Freshwater fishes nei,,Y,Includes species from > 1 class,,2007-2016,9.7,,0,0,37.89,96.52,0.00,0.00,0.00,0.00
+United States of America,Freshwater molluscs nei,,N,,,2007-2016,0.1,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Freshwater mussel shells,,N,,,2007-2016,3.451,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Frigate and bullet tunas,"Auxis thazard, A. rochei",Y,Actinopterygii (ray-finned fishes),Y,2007-2016,0.5,237,237.439094,1033.826768,37.75,96.17,237.44,1033.83,0.00,0.00
+United States of America,Frogs,,N,,,2007-2016,1.2,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Gadiformes nei,,Y,Actinopterygii (ray-finned fishes),,2007-2016,25.3,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Gag,Mycteroperca microlepis,Y,Actinopterygii (ray-finned fishes),N,2007-2016,253.5,238,909,9091,37.75,96.17,909.00,9091.00,0.03,0.28
+United States of America,Gars nei,NULL,Y,Actinopterygii (ray-finned fishes),,2007-2016,261.1,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Gastropods nei,,N,,,2007-2016,106.9,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Ghost shrimps nei,Callianassa spp,N,,,2007-2016,21,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Giant kelps nei,Macrocystis spp,N,,,2007-2016,3003.9,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Giant seabass,,Y,Actinopterygii (ray-finned fishes),,2007-2016,2.6,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Glove sponge,Spongia graminea,N,,,2007-2016,7.133,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,"Goatfishes, red mullets nei",Mullidae,Y,Actinopterygii (ray-finned fishes),Y,2007-2016,31.7,454,7,312.73,37.75,96.17,7.00,312.73,0.10,4.53
+United States of America,Golden deepsea crab,Chaceon fenneri,N,,,2007-2016,214.4,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Goldfish,Carassius auratus auratus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,51.7,474,7.207858,566.857184,37.75,96.17,7.21,566.86,0.09,7.17
+United States of America,Gopher rockfish,Sebastes carnatus,Y,Actinopterygii (ray-finned fishes),,2007-2016,5,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Grass carp(=White amur),Ctenopharyngodon idella,Y,Actinopterygii (ray-finned fishes),N,2007-2016,52.2,420,29540,36360,37.75,96.17,29540.00,36360.00,0.00,0.00
+United States of America,Great hammerhead,Sphyrna mokarran,Y,Elasmobranchii (sharks and rays),,2007-2016,11,,0,0,5950.39,10539.43,0.00,0.00,0.00,0.00
+United States of America,Great Northern tilefish,Lopholatilus chamaeleonticeps,Y,Actinopterygii (ray-finned fishes),N,2007-2016,1206.7,244,2000,5000,37.75,96.17,2000.00,5000.00,0.24,0.60
+United States of America,Great white shark,Carcharodon carcharias,Y,Elasmobranchii (sharks and rays),N,2007-2016,0.2,475,680000,680000,5950.39,10539.43,680000.00,680000.00,0.00,0.00
+United States of America,Greater amberjack,Seriola dumerili,Y,Actinopterygii (ray-finned fishes),N,2007-2016,563.2,245,8182,27300,37.75,96.17,8182.00,27300.00,0.02,0.07
+United States of America,Green crab,,N,,,2007-2016,83.6,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Green jobfish,NULL,Y,Actinopterygii (ray-finned fishes),,2007-2016,47.2,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Greenland halibut,Reinhardtius hippoglossoides,Y,Actinopterygii (ray-finned fishes),N,2007-2016,2690.5,247,2273,25000,37.75,96.17,2273.00,25000.00,0.11,1.18
+United States of America,"Grenadiers, rattails nei",,Y,Actinopterygii (ray-finned fishes),,2007-2016,105.5,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Grey snapper,NULL,Y,Actinopterygii (ray-finned fishes),,2007-2016,75.2,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Grey tilefish,NULL,Y,Actinopterygii (ray-finned fishes),,2007-2016,79.3,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Groupers nei,,Y,Actinopterygii (ray-finned fishes),,2007-2016,1857,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,"Groupers, seabasses nei",,Y,Actinopterygii (ray-finned fishes),,2007-2016,10.2,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,"Grunts, sweetlips nei",,Y,Actinopterygii (ray-finned fishes),,2007-2016,180.3,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Gulf kingcroaker,Menticirrhus littoralis,Y,Actinopterygii (ray-finned fishes),N,2007-2016,286.3,248,454,454,37.75,96.17,454.00,454.00,0.63,0.63
+United States of America,Gulf menhaden,Brevoortia patronus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,501771.2,249,233.555809,233.555809,37.75,96.17,233.56,233.56,2148.40,2148.40
+United States of America,Haddock,Melanogrammus aeglefinus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,5012.6,250,900,1800,37.75,96.17,900.00,1800.00,2.78,5.57
+United States of America,Hagfishes nei,,Y,Myxini (hagfishes),,2007-2016,3008.2,,0,0,37.89,96.52,0.00,0.00,0.00,0.00
+United States of America,"Hammerhead sharks, etc. nei",,Y,Elasmobranchii (sharks and rays),,2007-2016,0.1,,0,0,5950.39,10539.43,0.00,0.00,0.00,0.00
+United States of America,"Hard corals, madrepores nei",NULL,N,,,2007-2016,11.599,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Hickory shad,,Y,Actinopterygii (ray-finned fishes),,2007-2016,49.2,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Hogfish,NULL,Y,Actinopterygii (ray-finned fishes),,2007-2016,19.8,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Horseshoe crab,,N,,,2007-2016,896.8,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Iceland scallop,,N,,,2007-2016,0.1,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Indo-Pacific sailfish,Istiophorus platypterus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,11.3,255,13640,27270,37.75,96.17,13640.00,27270.00,0.00,0.00
+United States of America,"Jacks, crevalles nei",,Y,Actinopterygii (ray-finned fishes),,2007-2016,127.6,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Jellyfishes nei,Rhopilema spp,N,,,2007-2016,1106.6,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Jolthead porgy,Calamus bajonado,Y,Actinopterygii (ray-finned fishes),,2007-2016,5.8,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Jonah crab,,N,,,2007-2016,5567.9,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Jumbo flying squid,,N,,,2007-2016,15.1,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Kawakawa,Euthynnus affinis,Y,Actinopterygii (ray-finned fishes),N,2007-2016,2.4,263,5000,5000,37.75,96.17,5000.00,5000.00,0.00,0.00
+United States of America,Kelp greenling,NULL,Y,Actinopterygii (ray-finned fishes),,2007-2016,18.9,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,King crabs,,N,,,2007-2016,8943.4,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,King mackerel,Scomberomorus cavalla,Y,Actinopterygii (ray-finned fishes),N,2007-2016,2584.4,265,10000,10000,37.75,96.17,10000.00,10000.00,0.26,0.26
+United States of America,Knobbed whelk,Busycon carica,N,,,2007-2016,550.7,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Ladyfish,Elops saurus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,556.8,268,2000,2000,37.75,96.17,2000.00,2000.00,0.28,0.28
+United States of America,Lake cisco,Coregonus artedi,Y,Actinopterygii (ray-finned fishes),N,2007-2016,477.8,376,831.581516,831.581516,37.75,96.17,831.58,831.58,0.57,0.57
+United States of America,Lake trout(=Char),,Y,Actinopterygii (ray-finned fishes),,2007-2016,422.8,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Lake(=Common) whitefish,Coregonus clupeaformis,Y,Actinopterygii (ray-finned fishes),N,2007-2016,3952.1,377,10000,10000,37.75,96.17,10000.00,10000.00,0.40,0.40
+United States of America,Lane snapper,,Y,Actinopterygii (ray-finned fishes),,2007-2016,7.8,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Largehead hairtail,Trichiurus lepturus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,73.7,270,32,713,37.75,96.17,32.00,713.00,0.10,2.30
+United States of America,Lemon shark,,Y,Elasmobranchii (sharks and rays),,2007-2016,10.9,,0,0,5950.39,10539.43,0.00,0.00,0.00,0.00
+United States of America,Leopard shark,Triakis semifasciata,Y,Elasmobranchii (sharks and rays),,2007-2016,0.9,,0,0,5950.39,10539.43,0.00,0.00,0.00,0.00
+United States of America,Lesser amberjack,Seriola fasciata,Y,Actinopterygii (ray-finned fishes),,2007-2016,3.7,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Lightning whelk,Busycon sinistrum,N,,,2007-2016,1.6,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Lingcod,Ophiodon elongatus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,519.5,469,9072,13608,37.75,96.17,9072.00,13608.00,0.04,0.06
+United States of America,Little skate,Raja erinacea,Y,Elasmobranchii (sharks and rays),,2007-2016,4011.1,,0,0,5950.39,10539.43,0.00,0.00,0.00,0.00
+United States of America,Little tunny(=Atl.black skipj),Euthynnus alletteratus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,324,425,3722.8,5548.3,37.75,96.17,3722.80,5548.30,0.06,0.09
+United States of America,Longfin mako,,Y,Elasmobranchii (sharks and rays),,2007-2016,1.9,,0,0,5950.39,10539.43,0.00,0.00,0.00,0.00
+United States of America,Longfin squid,,N,,,2007-2016,11524.1,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Longfin yellowtail,Seriola rivoliana,Y,Actinopterygii (ray-finned fishes),,2007-2016,46.1,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Longspine thornyhead,Sebastolobus altivelis,Y,Actinopterygii (ray-finned fishes),,2007-2016,109.1,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Lookdown,Selene vomer,Y,Actinopterygii (ray-finned fishes),,2007-2016,6.3,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Mako sharks,,Y,Elasmobranchii (sharks and rays),,2007-2016,82.9,,0,0,5950.39,10539.43,0.00,0.00,0.00,0.00
+United States of America,Marine crabs nei,,N,,,2007-2016,509.5,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Marine fishes nei,,Y,Includes species from > 1 class,,2007-2016,2678.8,,0,0,37.89,96.52,0.00,0.00,0.00,0.00
+United States of America,Marine molluscs nei,,N,,,2007-2016,3313.3,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Marine worms,,N,,,2007-2016,330.6,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,"Marlins,sailfishes,etc. nei",,Y,Actinopterygii (ray-finned fishes),,2007-2016,205.9,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Mojarras(=Silver-biddies) nei,,Y,Actinopterygii (ray-finned fishes),,2007-2016,197.3,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Mullets nei,Mugilidae,Y,Actinopterygii (ray-finned fishes),Y,2007-2016,2909.8,278,20.321015,2000,37.75,96.17,20.32,2000.00,1.45,143.19
+United States of America,Mutton snapper,NULL,Y,Actinopterygii (ray-finned fishes),,2007-2016,59.6,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Natantian decapods nei,,N,,,2007-2016,2434.8,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,North Atlantic rockweed,,N,,,2007-2016,4977.1,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,North Pacific hake,Merluccius productus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,200058.4,282,499.88,1034.59,37.75,96.17,499.88,1034.59,193.37,400.21
+United States of America,Northern brown shrimp,,N,,,2007-2016,45373.6,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Northern kingfish,,Y,Actinopterygii (ray-finned fishes),,2007-2016,68.3,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Northern pink shrimp,,N,,,2007-2016,3506,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Northern prawn,,N,,,2007-2016,2416.5,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Northern puffer,,Y,Actinopterygii (ray-finned fishes),,2007-2016,32.8,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Northern quahog(=Hard clam),,N,,,2007-2016,10834.4,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Northern red snapper,Lutjanus campechanus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,1935.4,391,2000,2000,37.75,96.17,2000.00,2000.00,0.97,0.97
+United States of America,Northern shortfin squid,,N,,,2007-2016,11133.2,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Northern white shrimp,,N,,,2007-2016,46691.2,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Ocean pout,,Y,Actinopterygii (ray-finned fishes),,2007-2016,1.6,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Ocean quahog,,N,,,2007-2016,123703,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Ocean shrimp,,N,,,2007-2016,26376.6,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Ocean sunfish,Mola mola,Y,Actinopterygii (ray-finned fishes),N,2007-2016,70.6,468,1000000,1000000,37.75,96.17,1000000.00,1000000.00,0.00,0.00
+United States of America,Ocean whitefish,,Y,Actinopterygii (ray-finned fishes),,2007-2016,1.4,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,"Octopuses, etc. nei",NULL,N,,,2007-2016,294.5,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Offshore silver hake,,Y,Actinopterygii (ray-finned fishes),,2007-2016,10.3,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Oilfish,,Y,Actinopterygii (ray-finned fishes),,2007-2016,247,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Olympia oyster,Ostreola conchaphila,N,,,2007-2016,0.6,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Opah,Lampris guttatus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,753.9,430,50000,50000,37.75,96.17,50000.00,50000.00,0.02,0.02
+United States of America,Opalescent inshore squid,,N,,,2007-2016,80934.3,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Opaleye,,Y,Actinopterygii (ray-finned fishes),,2007-2016,0.2,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Pacific angelshark,NULL,Y,Elasmobranchii (sharks and rays),,2007-2016,3.3,,0,0,5950.39,10539.43,0.00,0.00,0.00,0.00
+United States of America,Pacific bluefin tuna,Thunnus orientalis,Y,Actinopterygii (ray-finned fishes),N,2007-2016,149.3,286,38000,99300,37.75,96.17,38000.00,99300.00,0.00,0.00
+United States of America,Pacific chub mackerel,Scomber japonicus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,4520.6,215,100,750,37.75,96.17,100.00,750.00,6.03,45.21
+United States of America,Pacific cod,Gadus macrocephalus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,281358.5,287,2273,4545,37.75,96.17,2273.00,4545.00,61.91,123.78
+United States of America,Pacific cupped oyster,,N,,,2007-2016,7101.2,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Pacific geoduck,,N,,,2007-2016,5197.1,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Pacific halibut,Hippoglossus stenolepis,Y,Actinopterygii (ray-finned fishes),N,2007-2016,19595.5,288,13640,18180,37.75,96.17,13640.00,18180.00,1.08,1.44
+United States of America,Pacific herring,Clupea pallasii pallasii,Y,Actinopterygii (ray-finned fishes),N,2007-2016,38547.7,289,64,400,37.75,96.17,64.00,400.00,96.37,602.31
+United States of America,Pacific horse clams nei,,N,,,2007-2016,111.1,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Pacific jack mackerel,Trachurus symmetricus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,609.5,290,190.22857,1866.228589,37.75,96.17,190.23,1866.23,0.33,3.20
+United States of America,Pacific littleneck clam,,N,,,2007-2016,38.9,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Pacific ocean perch,Sebastes alutus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,38076.2,383,1400,1400,37.75,96.17,1400.00,1400.00,27.20,27.20
+United States of America,Pacific razor clam,,N,,,2007-2016,195.5,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Pacific rock crab,,N,,,2007-2016,722.9,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Pacific rock shrimp,,N,,,2007-2016,169.1,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Pacific sand sole,,Y,Actinopterygii (ray-finned fishes),,2007-2016,42.5,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Pacific sanddab,,Y,Actinopterygii (ray-finned fishes),,2007-2016,107.6,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Parrotfishes nei,,Y,Actinopterygii (ray-finned fishes),,2007-2016,24.8,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Periwinkles nei,,N,,,2007-2016,570.7,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Permit,Trachinotus falcatus,Y,Actinopterygii (ray-finned fishes),,2007-2016,3,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Petrale sole,Eopsetta jordani,Y,Actinopterygii (ray-finned fishes),N,2007-2016,1891.6,385,1039.73403,3000,37.75,96.17,1039.73,3000.00,0.63,1.82
+United States of America,Picked dogfish,Squalus acanthias,Y,Elasmobranchii (sharks and rays),N,2007-2016,7854.2,401,3000,4500,5950.39,10539.43,3000.00,4500.00,1.75,2.62
+United States of America,Pigfish,,Y,Actinopterygii (ray-finned fishes),,2007-2016,11.1,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Pinfish,Lagodon rhomboides,Y,Actinopterygii (ray-finned fishes),,2007-2016,33.6,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Pink(=Humpback) salmon,Oncorhynchus gorbuscha,Y,Actinopterygii (ray-finned fishes),N,2007-2016,169401.3,296,1364,2273,37.75,96.17,1364.00,2273.00,74.53,124.19
+United States of America,"Pomfrets, ocean breams nei",,Y,Actinopterygii (ray-finned fishes),,2007-2016,388,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Porbeagle,Lamna nasus,Y,Elasmobranchii (sharks and rays),N,2007-2016,1.5,387,135000,135000,5950.39,10539.43,135000.00,135000.00,0.00,0.00
+United States of America,"Porgies, seabreams nei",,Y,Actinopterygii (ray-finned fishes),,2007-2016,132.7,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Queen crab,,N,,,2007-2016,26509.9,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Queen snapper,,Y,Actinopterygii (ray-finned fishes),,2007-2016,5.1,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Rainbow runner,Elagatis bipinnulata,Y,Actinopterygii (ray-finned fishes),N,2007-2016,1,432,10000,10000,37.75,96.17,10000.00,10000.00,0.00,0.00
+United States of America,Rainbow smelt,Osmerus mordax mordax,Y,Actinopterygii (ray-finned fishes),N,2007-2016,110.5,352,85,85,37.75,96.17,85.00,85.00,1.30,1.30
+United States of America,Rainbow trout,Oncorhynchus mykiss,Y,Actinopterygii (ray-finned fishes),N,2007-2016,186.1,388,500,5000,37.75,96.17,500.00,5000.00,0.04,0.37
+United States of America,Rays and skates nei,,Y,Elasmobranchii (sharks and rays),,2007-2016,12560.6,,0,0,5950.39,10539.43,0.00,0.00,0.00,0.00
+United States of America,"Rays, stingrays, mantas nei",,Y,Elasmobranchii (sharks and rays),,2007-2016,10088.7,,0,0,5950.39,10539.43,0.00,0.00,0.00,0.00
+United States of America,Red crab,,N,,,2007-2016,1191.2,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Red drum,Sciaenops ocellatus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,48.4,299,1818,3636,37.75,96.17,1818.00,3636.00,0.01,0.03
+United States of America,Red grouper,Epinephelus morio,Y,Actinopterygii (ray-finned fishes),N,2007-2016,1327.6,300,1364,2273,37.75,96.17,1364.00,2273.00,0.58,0.97
+United States of America,Red hake,Urophycis chuss,Y,Actinopterygii (ray-finned fishes),N,2007-2016,586,390,1500,1500,37.75,96.17,1500.00,1500.00,0.39,0.39
+United States of America,Red hind,,Y,Actinopterygii (ray-finned fishes),,2007-2016,1,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Red lionfish,Pterois volitans,Y,Actinopterygii (ray-finned fishes),,2007-2016,6.4,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Red porgy,Pagrus pagrus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,173.3,434,660,660,37.75,96.17,660.00,660.00,0.26,0.26
+United States of America,Red-eye round herring,Etrumeus teres,Y,Actinopterygii (ray-finned fishes),N,2007-2016,0.4,302,62.94,62.94,37.75,96.17,62.94,62.94,0.01,0.01
+United States of America,Redbanded rockfish,Sebastes babcocki,Y,Actinopterygii (ray-finned fishes),,2007-2016,7.7,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Rex sole,Glyptocephalus zachirus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,4320.9,392,1500,1500,37.75,96.17,1500.00,1500.00,2.88,2.88
+United States of America,River and lake turtles nei,,N,,,2007-2016,38.8,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,River carpsucker,Carpiodes carpio,Y,Actinopterygii (ray-finned fishes),,2007-2016,119.5,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,River prawns nei,,N,,,2007-2016,0.7,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Robust clubhook squid,NULL,N,,,2007-2016,0.6,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Rock hind,Epinephelus adscensionis,Y,Actinopterygii (ray-finned fishes),,2007-2016,1.9,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Rock sea bass,Centropristis philadelphica,Y,Actinopterygii (ray-finned fishes),,2007-2016,6,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Rock shrimp,,N,,,2007-2016,812.7,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Rock sole,,Y,Actinopterygii (ray-finned fishes),,2007-2016,53096.4,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Rough scad,Trachurus lathami,Y,Actinopterygii (ray-finned fishes),N,2007-2016,17,303,251.149889,251.149889,37.75,96.17,251.15,251.15,0.07,0.07
+United States of America,Round sardinella,Sardinella aurita,Y,Actinopterygii (ray-finned fishes),N,2007-2016,683.2,304,100,100,37.75,96.17,100.00,100.00,6.83,6.83
+United States of America,Royal red shrimp,,N,,,2007-2016,350.9,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Sablefish,Anoplopoma fimbria,Y,Actinopterygii (ray-finned fishes),N,2007-2016,17974.8,394,4536,4536,37.75,96.17,4536.00,4536.00,3.96,3.96
+United States of America,Saithe(=Pollock),Pollachius virens,Y,Actinopterygii (ray-finned fishes),N,2007-2016,6012.5,305,2200,4500,37.75,96.17,2200.00,4500.00,1.34,2.73
+United States of America,Sand gaper,,N,,,2007-2016,7915,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Sand tiger shark,,Y,Elasmobranchii (sharks and rays),,2007-2016,1.5,,0,0,5950.39,10539.43,0.00,0.00,0.00,0.00
+United States of America,Sand tilefish,Malacanthus plumieri,Y,Actinopterygii (ray-finned fishes),,2007-2016,1.2,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Sand weakfish,Cynoscion arenarius,Y,Actinopterygii (ray-finned fishes),,2007-2016,26.7,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Sandbar shark,Carcharhinus plumbeus,Y,Elasmobranchii (sharks and rays),N,2007-2016,50.3,433,60000,96000,5950.39,10539.43,60000.00,96000.00,0.00,0.00
+United States of America,Sandeels(=Sandlances) nei,Ammodytes spp,Y,Actinopterygii (ray-finned fishes),Y,2007-2016,2.1,306,10,10,37.75,96.17,10.00,10.00,0.21,0.21
+United States of America,Scads nei,Decapterus spp,Y,Actinopterygii (ray-finned fishes),Y,2007-2016,287.1,308,63,231.414368,37.75,96.17,63.00,231.41,1.24,4.56
+United States of America,Scalloped hammerhead,Sphyrna lewini,Y,Elasmobranchii (sharks and rays),N,2007-2016,9.9,437,115101.576196,115101.576196,5950.39,10539.43,115101.58,115101.58,0.00,0.00
+United States of America,Scallops nei,,N,,,2007-2016,1.4,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Scamp,,Y,Actinopterygii (ray-finned fishes),,2007-2016,103.8,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,"Scorpionfishes, redfishes nei",,Y,Actinopterygii (ray-finned fishes),,2007-2016,14750.5,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Sculpins nei,,Y,Actinopterygii (ray-finned fishes),,2007-2016,396.7,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Scup,Stenotomus chrysops,Y,Actinopterygii (ray-finned fishes),N,2007-2016,5859.7,395,750,750,37.75,96.17,750.00,750.00,7.81,7.81
+United States of America,Sea catfishes nei,,Y,Actinopterygii (ray-finned fishes),,2007-2016,8.1,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Sea chubs nei,,Y,Actinopterygii (ray-finned fishes),,2007-2016,10,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Sea cucumbers nei,,N,,,2007-2016,1691.6,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Sea mussels nei,,N,,,2007-2016,1309.1,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Sea urchins nei,,N,,,2007-2016,6323.8,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,"Sharks, rays, skates, etc. nei",,Y,Elasmobranchii (sharks and rays),,2007-2016,787.8,,0,0,5950.39,10539.43,0.00,0.00,0.00,0.00
+United States of America,Sheepshead,Archosargus probatocephalus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,726.3,312,2268,2268,37.75,96.17,2268.00,2268.00,0.32,0.32
+United States of America,Sheepswool sponge,Hippospongia lachne,N,,,2007-2016,18.848,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Shortfin mako,Isurus oxyrinchus,Y,Elasmobranchii (sharks and rays),N,2007-2016,103.6,398,60000,135000,5950.39,10539.43,60000.00,135000.00,0.00,0.00
+United States of America,Shortspine thornyhead,,Y,Actinopterygii (ray-finned fishes),,2007-2016,723.2,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Silk snapper,,Y,Actinopterygii (ray-finned fishes),,2007-2016,8.9,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Silky shark,,Y,Elasmobranchii (sharks and rays),,2007-2016,0.4,,0,0,5950.39,10539.43,0.00,0.00,0.00,0.00
+United States of America,Silver hake,Merluccius bilinearis,Y,Actinopterygii (ray-finned fishes),N,2007-2016,6978.4,399,1297.992031,1524.016264,37.75,96.17,1297.99,1524.02,4.58,5.38
+United States of America,Silversides(=Sand smelts) nei,,Y,Actinopterygii (ray-finned fishes),,2007-2016,5.2,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Silvery John dory,,Y,Actinopterygii (ray-finned fishes),,2007-2016,64.4,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Skipjack tuna,Katsuwonus pelamis,Y,Actinopterygii (ray-finned fishes),N,2007-2016,179882,317,2000,10000,37.75,96.17,2000.00,10000.00,17.99,89.94
+United States of America,Slipper lobsters nei,,N,,,2007-2016,0.2,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Smelts nei,,Y,Actinopterygii (ray-finned fishes),,2007-2016,213.6,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Smooth hammerhead,,Y,Elasmobranchii (sharks and rays),,2007-2016,0.8,,0,0,5950.39,10539.43,0.00,0.00,0.00,0.00
+United States of America,Snappers nei,,Y,Actinopterygii (ray-finned fishes),,2007-2016,87.2,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,"Snappers, jobfishes nei",,Y,Actinopterygii (ray-finned fishes),,2007-2016,324.6,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Snowy grouper,Epinephelus niveatus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,67.6,319,3636,4545,37.75,96.17,3636.00,4545.00,0.01,0.02
+United States of America,Sockeye(=Red) salmon,Oncorhynchus nerka,Y,Actinopterygii (ray-finned fishes),N,2007-2016,112472.1,322,2300,5000,37.75,96.17,2300.00,5000.00,22.49,48.90
+United States of America,Spadefishes nei,,Y,Actinopterygii (ray-finned fishes),,2007-2016,20.2,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Speckled hind,Epinephelus drummondhayi,Y,Actinopterygii (ray-finned fishes),,2007-2016,12.8,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Spinner shark,Carcharhinus brevipinna,Y,Elasmobranchii (sharks and rays),,2007-2016,25.7,,0,0,5950.39,10539.43,0.00,0.00,0.00,0.00
+United States of America,Splitnose rockfish,Sebastes diploproa,Y,Actinopterygii (ray-finned fishes),,2007-2016,19.7,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Sponges,,N,,,2007-2016,85.06,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Spot croaker,,Y,Actinopterygii (ray-finned fishes),,2007-2016,1624.8,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Spot shrimp,Pandalus platyceros,N,,,2007-2016,149.5,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Spotted ratfish,,Y,Holocephali (chimaeras),,2007-2016,0.4,,0,0,1155.00,1575.00,0.00,0.00,0.00,0.00
+United States of America,Spotted weakfish,Cynoscion nebulosus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,182.7,402,2000,2000,37.75,96.17,2000.00,2000.00,0.09,0.09
+United States of America,Squeteague(=Gray weakfish),Cynoscion regalis,Y,Actinopterygii (ray-finned fishes),N,2007-2016,150,403,1134,1134,37.75,96.17,1134.00,1134.00,0.13,0.13
+United States of America,Squirrelfishes nei,,Y,Actinopterygii (ray-finned fishes),,2007-2016,22.5,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Starfishes nei,,N,,,2007-2016,6.3,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Starry flounder,,Y,Actinopterygii (ray-finned fishes),,2007-2016,18.2,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,"Stingrays, butterfly rays nei",,Y,Elasmobranchii (sharks and rays),,2007-2016,2.2,,0,0,5950.39,10539.43,0.00,0.00,0.00,0.00
+United States of America,Stomatopods nei,,N,,,2007-2016,2.8,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Striped bass,Morone saxatilis,Y,Actinopterygii (ray-finned fishes),N,2007-2016,2973.2,330,6820,15900,37.75,96.17,6820.00,15900.00,0.19,0.44
+United States of America,Striped marlin,Tetrapturus audax,Y,Actinopterygii (ray-finned fishes),N,2007-2016,382.5,445,56750,113500,37.75,96.17,56750.00,113500.00,0.00,0.01
+United States of America,Sturgeons nei,,Y,Actinopterygii (ray-finned fishes),,2007-2016,0.2,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Suckers nei,,Y,Actinopterygii (ray-finned fishes),,2007-2016,31.2,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Summer flounder,Paralichthys dentatus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,5629.3,366,907,2268,37.75,96.17,907.00,2268.00,2.48,6.21
+United States of America,Surgeonfishes nei,,Y,Actinopterygii (ray-finned fishes),,2007-2016,40.9,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Swordfish,Xiphias gladius,Y,Actinopterygii (ray-finned fishes),N,2007-2016,3496.8,333,31000,60000,37.75,96.17,31000.00,60000.00,0.06,0.11
+United States of America,Tanner crab,Chionoecetes bairdi,N,,,2007-2016,3104.2,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Tanner crabs nei,,N,,,2007-2016,1,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Tautog,,Y,Actinopterygii (ray-finned fishes),,2007-2016,119.8,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Threadfin shad,Dorosoma petenense,Y,Actinopterygii (ray-finned fishes),,2007-2016,1.8,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Thresher,Alopias vulpinus,Y,Elasmobranchii (sharks and rays),N,2007-2016,121.3,443,113500,113500,5950.39,10539.43,113500.00,113500.00,0.00,0.00
+United States of America,Thresher sharks nei,,Y,Elasmobranchii (sharks and rays),,2007-2016,20.5,,0,0,5950.39,10539.43,0.00,0.00,0.00,0.00
+United States of America,Tiger shark,Galeocerdo cuvier,Y,Elasmobranchii (sharks and rays),N,2007-2016,13.2,448,385000,685000,5950.39,10539.43,385000.00,685000.00,0.00,0.00
+United States of America,Tilapias nei,,Y,Actinopterygii (ray-finned fishes),,2007-2016,81.6,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Tilefishes nei,,Y,Actinopterygii (ray-finned fishes),,2007-2016,60.1,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,"Toadfishes, etc. nei",,Y,Actinopterygii (ray-finned fishes),,2007-2016,11.7,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Tope shark,Galeorhinus galeus,Y,Elasmobranchii (sharks and rays),N,2007-2016,4.7,446,25000,25000,5950.39,10539.43,25000.00,25000.00,0.00,0.00
+United States of America,"Triggerfishes, durgons nei",,Y,Actinopterygii (ray-finned fishes),,2007-2016,209.2,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Tripletail,,Y,Actinopterygii (ray-finned fishes),,2007-2016,4.8,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Tropical spiny lobsters nei,,N,,,2007-2016,348,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Tuna-like fishes nei,Scombroidei,Y,Actinopterygii (ray-finned fishes),Y,2007-2016,54.4,337,53.942763,180000,37.75,96.17,53.94,180000.00,0.00,1.01
+United States of America,Tusk(=Cusk),Brosme brosme,Y,Actinopterygii (ray-finned fishes),N,2007-2016,47.9,406,8000,8000,37.75,96.17,8000.00,8000.00,0.01,0.01
+United States of America,Various squids nei,,N,,,2007-2016,992.8,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Vermilion rockfish,Sebastes miniatus,Y,Actinopterygii (ray-finned fishes),,2007-2016,8.7,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Vermilion snapper,,Y,Actinopterygii (ray-finned fishes),,2007-2016,1376,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Wahoo,Acanthocybium solandri,Y,Actinopterygii (ray-finned fishes),N,2007-2016,417,338,4536,38636,37.75,96.17,4536.00,38636.00,0.01,0.09
+United States of America,Walleye,Sander vitreus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,19.8,408,907,1814,37.75,96.17,907.00,1814.00,0.01,0.02
+United States of America,Warsaw grouper,Epinephelus nigritus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,33.1,339,13636,36364,37.75,96.17,13636.00,36364.00,0.00,0.00
+United States of America,Weathervane scallop,,N,,,2007-2016,897.8,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Wenchman,Pristipomoides aquilonaris,Y,Actinopterygii (ray-finned fishes),,2007-2016,4,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Whelks,,N,,,2007-2016,3530.5,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,White bass,,Y,Actinopterygii (ray-finned fishes),,2007-2016,294.6,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,White croaker,,Y,Actinopterygii (ray-finned fishes),,2007-2016,15.4,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,White grunt,NULL,Y,Actinopterygii (ray-finned fishes),,2007-2016,4.5,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,White hake,Urophycis tenuis,Y,Actinopterygii (ray-finned fishes),N,2007-2016,1916.9,409,2360.65,3656.43,37.75,96.17,2360.65,3656.43,0.52,0.81
+United States of America,White margate,NULL,Y,Actinopterygii (ray-finned fishes),,2007-2016,4.6,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,White mullet,NULL,Y,Actinopterygii (ray-finned fishes),,2007-2016,56.7,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,White perch,,Y,Actinopterygii (ray-finned fishes),,2007-2016,1141.5,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,White sturgeon,Acipenser transmontanus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,90,410,9072,18144,37.75,96.17,9072.00,18144.00,0.00,0.01
+United States of America,White weakfish,,Y,Actinopterygii (ray-finned fishes),,2007-2016,184.2,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Whitefishes nei,,Y,Actinopterygii (ray-finned fishes),,2007-2016,95.1,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Widow rockfish,Sebastes entomelas,Y,Actinopterygii (ray-finned fishes),N,2007-2016,396.7,411,300,1814,37.75,96.17,300.00,1814.00,0.22,1.32
+United States of America,Windowpane flounder,,Y,Actinopterygii (ray-finned fishes),,2007-2016,58.4,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Winter flounder,Pseudopleuronectes americanus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,2093.4,353,1400,1400,37.75,96.17,1400.00,1400.00,1.50,1.50
+United States of America,Witch flounder,Glyptocephalus cynoglossus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,783.4,412,300,1000,37.75,96.17,300.00,1000.00,0.78,2.61
+United States of America,Wolffishes(=Catfishes) nei,,Y,Actinopterygii (ray-finned fishes),,2007-2016,15.2,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Wreckfish,Polyprion americanus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,81.7,413,22600,22600,37.75,96.17,22600.00,22600.00,0.00,0.00
+United States of America,Yellow jack,Caranx bartholomaei,Y,Actinopterygii (ray-finned fishes),,2007-2016,4.3,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Yellow sponge,Spongia barbara,N,,,2007-2016,29.668,,0,0,,,0.00,0.00,0.00,0.00
+United States of America,Yellowedge grouper,Epinephelus flavolimbatus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,233.9,348,2270,4540,37.75,96.17,2270.00,4540.00,0.05,0.10
+United States of America,Yellowfin grouper,Mycteroperca venenosa,Y,Actinopterygii (ray-finned fishes),N,2007-2016,0.5,351,6810,6810,37.75,96.17,6810.00,6810.00,0.00,0.00
+United States of America,Yellowfin sole,Limanda aspera,Y,Actinopterygii (ray-finned fishes),N,2007-2016,131794.9,414,200,200,37.75,96.17,200.00,200.00,658.97,658.97
+United States of America,Yellowfin tuna,Thunnus albacares,Y,Actinopterygii (ray-finned fishes),N,2007-2016,22604.9,345,5000,20000,37.75,96.17,5000.00,20000.00,1.13,4.52
+United States of America,Yellowtail amberjack,Seriola lalandi,Y,Actinopterygii (ray-finned fishes),N,2007-2016,14.3,347,4396.884546,15000,37.75,96.17,4396.88,15000.00,0.00,0.00
+United States of America,Yellowtail flounder,Limanda ferruginea,Y,Actinopterygii (ray-finned fishes),N,2007-2016,1583.7,415,500,600,37.75,96.17,500.00,600.00,2.64,3.17
+United States of America,Yellowtail rockfish,,Y,Actinopterygii (ray-finned fishes),,2007-2016,1071.4,,0,0,37.75,96.17,0.00,0.00,0.00,0.00
+United States of America,Yellowtail snapper,Ocyurus chrysurus,Y,Actinopterygii (ray-finned fishes),N,2007-2016,787,451,750,2000,37.75,96.17,750.00,2000.00,0.39,1.05

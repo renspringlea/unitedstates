@@ -1,0 +1,95 @@
+Environment,Species,2018 (tonnes),2020 (t),2020(g),2020 (%),Generic estimated mean weight (GEMW) lower (g),Generic estimated mean weight (GEMW) upper (g),Type of weight,Estimated numbers - Lower bound,Estimated numbers - Upper bound,Lower bound in %,Upper bound in %,Clade
+Marine,Acetes erythraeus,3535,6020,6020000000,0.18%,0.0085,0.2873,"WW, estimated",20953706927,708235294118,0.518%,0.984%,Sergestid
+Marine,Acetes japonicus,438663,251093,251093000000,7.42%,0.005,0.07,WW,3587042857143,50218600000000,88.669%,69.739%,Sergestid
+Marine,Alpheus glaber,,0.01,10000,0.00%,0.4,3.2,"WW, estimated",3125,25000,0.000%,0.000%,Caridean
+Marine,Aristaeomorpha foliacea,2575,1997.18,1997180000,0.06%,5.7,39.19,WW,50961470,350382456,0.001%,0.000%,Penaeid
+Marine,Aristeidae,0,23.82,23820000,0.00%,5.7,39.19,"WW, estimated",607808,4178947,0.000%,0.000%,Penaeid
+Marine,Aristeus antennatus,4513,2517.2,2517200000,0.07%,14.8,29.9,WW,84187291,170081081,0.002%,0.000%,Penaeid
+Marine,Aristeus varidens,3058,5398.45,5398450000,0.16%,25,27,Unspecified,199942593,215938000,0.005%,0.000%,Penaeid
+Marine,Artemesia longinaris,2856,2848.14,2848140000,0.08%,1,2.3,"WW, estimated",1238321739,2848140000,0.031%,0.004%,Penaeid
+Marine,Crangon crangon,51179,30219.65,30219650000,0.89%,0.1,0.8,"WW, estimated",37774562500,302196500000,0.934%,0.420%,Caridean
+Marine,Crangon spp,,2.37,2370000,0.00%,0.1,0.8,"WW, estimated",2962500,23700000,0.000%,0.000%,Caridean
+Freshwater,Cryphiops caementarius,1141,624.9,624900000,0.02%,0.76,3.87,WW,161472868,822236842,0.004%,0.001%,Caridean
+Freshwater,Exopalaemon modestus (Palaemon modestus),108335,65745.5,65745500000,1.94%,1,1.8,WW,36525277778,65745500000,0.903%,0.091%,Caridean
+Marine,Haliporoides diomedeae,84,8,8000000,0.00%,10,35,"WW, estimated",228571,800000,0.000%,0.000%,Penaeid
+Marine,Haliporoides triarthrus,2000,68.3,68300000,0.00%,10,40,WW,1707500,6830000,0.000%,0.000%,Penaeid
+Marine,Heterocarpus ensifer,,0.05,50000,0.00%,4.7,18.3,WW,2732,10638,0.000%,0.000%,Caridean
+Marine,Heterocarpus grimaldii,,8.78,8780000,0.00%,10,20,"WW, estimated",439000,878000,0.000%,0.000%,Caridean
+Marine,Heterocarpus reedi,5288,4044,4044000000,0.12%,5,18,"WW, estimated",224666667,808800000,0.006%,0.001%,Caridean
+Freshwater,Macrobrachium nipponense,108336,65745.5,65745500000,1.94%,1,8,"WW, estimated",8218187500,65745500000,0.203%,0.091%,Caridean
+Freshwater,Macrobrachium rosenbergii,16766,12193.66,12193660000,0.36%,10,50,"WW, estimated",243873200,1219366000,0.006%,0.002%,Caridean
+Freshwater,Macrobrachium spp,9687,8512.56,8512560000,0.25%,10,30,"WW, estimated",283752000,851256000,0.007%,0.001%,Caridean
+Marine,Metapenaeus dalli,,1936,1936000000,0.06%,6,13,WW,148923077,322666667,0.004%,0.000%,Penaeid
+Marine,Metapenaeus endeavouri,1981,1935.88,1935880000,0.06%,10,30,"WW, estimated",64529333,193588000,0.002%,0.000%,Penaeid
+Marine,Metapenaeus joyneri,1149,1478.95,1478950000,0.04%,5,15,"WW, adjusted & estimated",98596667,295790000,0.002%,0.000%,Penaeid
+Marine,Metapenaeus macleayi,,652.63,652630000,0.02%,3,12,"WW, estimated",54385833,217543333,0.001%,0.000%,Penaeid
+Marine,Metapenaeus monoceros,1730,1732.77,1732770000,0.05%,4,42,"WW, estimated",41256429,433192500,0.001%,0.001%,Penaeid
+Marine,Metapenaeus spp,85848,108209.9,108209900000,3.20%,5,18,"WW, adjusted & estimated",6011661111,21641980000,0.149%,0.030%,Penaeid
+Marine,Natantia,912070.51,874659.9,874659900000,25.83%,6.6,21.6,"WW, estimated",40493513889,132524227273,1.001%,0.184%,Penaeid
+Marine,Nematopalaemon schmitti,1574,1290,1290000000,0.04%,2,2.5,WW,516000000,645000000,0.013%,0.001%,Caridean
+Marine,Palaemon adspersus,517,679.64,679640000,0.02%,0.16,1.1,"WW, estimated",617854545,4247750000,0.015%,0.006%,Caridean
+Marine,Palaemon elegans,,0.56,560000,0.00%,0.099,1.088,WW,514706,5656566,0.000%,0.000%,Caridean
+Marine,Palaemon longirostris,5,11.79,11790000,0.00%,0.01,1.3,WW,9069231,1179000000,0.000%,0.002%,Caridean
+Marine,Palaemon serratus,351,546.13,546130000,0.02%,1.43,4.38,WW,124687215,381909091,0.003%,0.001%,Caridean
+Marine,Palaemon spp,,0.09,90000,0.00%,0.01,4.38,"WW, estimated",20548,9000000,0.000%,0.000%,Caridean
+Freshwater,Palaemonidae,15827,6748.13,6748130000,0.20%,0.01,30,"WW, estimated",224937667,674813000000,0.006%,0.937%,Caridean
+Marine,Palaemonidae,268,178.01,178010000,0.01%,0.01,4.38,"WW, estimated",40641553,17801000000,0.001%,0.025%,Caridean
+Marine,Pandalidae,0,292.6,292600000,0.01%,3.22,19.51,"WW, estimated",14996583,90806897,0.000%,0.000%,Caridean
+Marine,Pandalus borealis,172987,255389,255389000000,7.54%,1,14,"WW, estimated",18242071429,255389000000,0.451%,0.355%,Caridean
+Marine,Pandalus goniurus,2635,2425,2425000000,0.07%,1.2,6.3,WW,384920635,2020833333,0.010%,0.003%,Caridean
+Marine,Pandalus hypsinotus,2050,1856,1856000000,0.05%,2,12.5,"WW, estimated",148480000,928000000,0.004%,0.001%,Caridean
+Marine,Pandalus jordani,22469,26051,26051000000,0.77%,2.8,7,"WW, estimated",3721571429,9303928571,0.092%,0.013%,Caridean
+Marine,Pandalus kessleri,56,80,80000000,0.00%,4.7,34.8,WW,2298851,17021277,0.000%,0.000%,Caridean
+Marine,Pandalus montagui,133,36.68,36680000,0.00%,5,33,"WW, estimated",1111515,7336000,0.000%,0.000%,Caridean
+Marine,Pandalus platyceros,401,370,370000000,0.01%,6.3,35,"WW, estimated",10571429,58730159,0.000%,0.000%,Caridean
+Marine,Pandalus spp,83113,18717,18717000000,0.55%,1,15,"WW, estimated",1247800000,18717000000,0.031%,0.026%,Caridean
+Marine,Parapenaeopsis atlantica,100,109.54,109540000,0.00%,4.95,11.34,Unspecified,9659612,22129293,0.000%,0.000%,Penaeid
+Marine,Parapenaeopsis cornuta (Kishinouyepenaeopsis cornuta),,1,1000000,0.00%,1,6,"WW, estimated",166667,1000000,0.000%,0.000%,Penaeid
+Marine,Parapenaeopsis spp,5212,9654,9654000000,0.29%,2.8,11.34,"WW, estimated",851322751,3447857143,0.021%,0.005%,Penaeid
+Marine,Parapenaeus longirostris,32073.83,26697.01,26697010000,0.79%,3.42,10,"WW, estimated",2669701000,7806143275,0.066%,0.011%,Penaeid
+Marine,Pasiphaea multidentata,0,21.68,21680000,0.00%,5,8,"WW, estimated",2710000,4336000,0.000%,0.000%,Caridean
+Marine,Pasiphaea sivado,0,11.11,11110000,0.00%,0.2,1.4,WW,7935714,55550000,0.000%,0.000%,Caridean
+Marine,Pasiphaea tarda,4,3.69,3690000,0.00%,3,9,"WW, estimated",410000,1230000,0.000%,0.000%,Caridean
+Marine,Penaeidae,6,755.93,755930000,0.02%,1.2,60,"WW, estimated",12598833,629941667,0.000%,0.001%,Penaeid
+Marine,Penaeus aztecus,70057,41391.87,41391870000,1.22%,15.7,29.06,WW,1424358913,2636424841,0.035%,0.004%,Penaeid
+Marine,Penaeus brasiliensis,9000,9000,9000000000,0.27%,10,40,"WW, estimated",225000000,900000000,0.006%,0.001%,Penaeid
+Marine,Penaeus brevirostris,486,596.88,596880000,0.02%,15,35,"WW, estimated",17053714,39792000,0.000%,0.000%,Penaeid
+Marine,Penaeus californiensis,36984,25069.88,25069880000,0.74%,10,30,WW,835662667,2506988000,0.021%,0.003%,Penaeid
+Marine,Penaeus chinensis,223225,367431.3,367431300000,10.85%,16,50,"WW, adjusted & estimated",7348626000,22964456250,0.182%,0.032%,Penaeid
+Marine,Penaeus duorarum,13076,3244.1,3244100000,0.10%,7,11,"WW, estimated",294918182,463442857,0.007%,0.001%,Penaeid
+Marine,Penaeus japonicus,981,307.76,307760000,0.01%,15,25,"WW, estimated",12310400,20517333,0.000%,0.000%,Penaeid
+Marine,Penaeus kerathurus,3322,3601.21,3601210000,0.11%,10,30,"WW, estimated",120040333,360121000,0.003%,0.001%,Penaeid
+Marine,Penaeus latisulcatus,673,913.97,913970000,0.03%,20,40,"WW, estimated",22849250,45698500,0.001%,0.000%,Penaeid
+Marine,Penaeus merguiensis,87742,34369.8,34369800000,1.01%,17,27,"WW, estimated",1272955556,2021752941,0.031%,0.003%,Penaeid
+Marine,Penaeus monodon,227173,304666.8,304666800000,9.00%,20,70,"WW, estimated",4352382857,15233340000,0.108%,0.021%,Penaeid
+Marine,Penaeus notialis,24415,19845.12,19845120000,0.59%,23,28,WW,708754286,862831304,0.018%,0.001%,Penaeid
+Marine,Penaeus occidentalis,904,0,0,0.00%,11,35,"WW, estimated",0,0,0.000%,0.000%,Penaeid
+Marine,Penaeus paulensis,11,20,20000000,0.00%,10,30,"WW, estimated",666667,2000000,0.000%,0.000%,Penaeid
+Marine,Penaeus penicillatus,84,33.35,33350000,0.00%,10,38,"WW, adjusted and estimated",877632,3335000,0.000%,0.000%,Penaeid
+Marine,Penaeus schmitti,6070,6070,6070000000,0.18%,10,27,"WW, estimated",224814815,607000000,0.006%,0.001%,Penaeid
+Marine,Penaeus semisulcatus,12616,12980.91,12980910000,0.38%,8,30,"WW, estimated",432697000,1622613750,0.011%,0.002%,Penaeid
+Marine,Penaeus setiferus,42549,50817.42,50817420000,1.50%,7,17,"WW, estimated",2989260000,7259631429,0.074%,0.010%,Penaeid
+Marine,Penaeus spp,168816.22,170980.5,170980500000,5.05%,7,40,"WW, estimated",4274512500,24425785714,0.106%,0.034%,Penaeid
+Marine,Penaeus stylirostris,34339,26012.72,26012720000,0.77%,14,25,"WW, estimated",1040508800,1858051429,0.026%,0.003%,Penaeid
+Marine,Penaeus vannamei,14040,10397.84,10397840000,0.31%,11,30,"WW, estimated",346594667,945258182,0.009%,0.001%,Penaeid
+Marine,Pleoticus muelleri,255706,184726.9,184726900000,5.46%,5.5,9.5,"WW, estimated",19444936842,33586709091,0.481%,0.047%,Penaeid
+Marine,Pleoticus robustus,,87,87000000,0.00%,15.1,45,WW,1933333,5761589,0.000%,0.000%,Penaeid
+Marine,Plesionika edwardsii,455,331.69,331690000,0.01%,2.7,14,"WW, estimated",23692143,122848148,0.001%,0.000%,Caridean
+Marine,Plesionika martia,29,38.47,38470000,0.00%,4.7,6.4,WW,6010938,8185106,0.000%,0.000%,Caridean
+Marine,Plesionika narval,,0.47,470000,0.00%,0.6,2.95,WW,159322,783333,0.000%,0.000%,Caridean
+Marine,Plesionika spp,,154.25,154250000,0.00%,0.6,14,"WW, estimated",11017857,257083333,0.000%,0.000%,Caridean
+Marine,Plesiopenaeus edwardsianus,128,136.15,136150000,0.00%,10,30,"WW, estimated",4538333,13615000,0.000%,0.000%,Penaeid
+Marine,Protrachypene precipua,8739,5455.15,5455150000,0.16%,2.5,5.5,"WW, estimated",991845455,2182060000,0.025%,0.003%,Penaeid
+Marine,Sclerocrangon spp,302,21,21000000,0.00%,1,8,"WW, estimated",2625000,21000000,0.000%,0.000%,Caridean
+Marine,Sergestidae,79833,78688.32,78688320000,2.32%,0.0041,0.43,"WW, estimated",182996093023,19192273170732,4.524%,26.653%,Sergestid
+Marine,Sicyonia brevirostris,525,179,179000000,0.01%,5,20,"WW, estimated",8950000,35800000,0.000%,0.000%,Penaeid
+Marine,Sicyonia ingentis,181,224,224000000,0.01%,5,20,"WW, estimated",11200000,44800000,0.000%,0.000%,Penaeid
+Marine,Solenocera agassizii,87,234.99,234990000,0.01%,5,20,"WW, estimated",11749500,46998000,0.000%,0.000%,Penaeid
+Marine,Solenocera membranacea,,78.14,78140000,0.00%,1.1,3,"WW, estimated",26046667,71036364,0.001%,0.000%,Penaeid
+Marine,Trachypenaeus curvirostris,248235,195432.7,195432700000,5.77%,1.2,4.4,"WW, estimated",44416522727,162860583333,1.098%,0.226%,Penaeid
+Marine,Trachypenaeus spp,0,0,0,0.00%,1.2,4.4,"WW, estimated",0,0,0.000%,0.000%,Penaeid
+Marine,Xiphopenaeus kroyeri,42489,31518.87,31518870000,0.93%,3,12,"WW, estimate",2626572500,10506290000,0.065%,0.015%,Penaeid
+Marine,Xiphopenaeus riveti,448,830.04,830040000,0.02%,2,14,"WW, estimate",59288571,415020000,0.001%,0.001%,Penaeid
+Marine,"Xiphopenaeus, Trachypenaeus sp",1055,716.43,716430000,0.02%,1.2,14,"WW, estimate",51173571,597025000,0.001%,0.001%,Penaeid
+,Total,3715351.56,3386207.69,3386207690000,100.00%,,,Total,4045421839181,72008885373686,100.00%,100.00%,
+,Number of species,,92,,,,,Excluding A. japonicus,458378982038,21790285373686,,,
